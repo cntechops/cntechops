@@ -11,7 +11,7 @@ San Antonio, Texas, USA
 - Minor in Industrial Technology and Management  
 
 **University of Texas at San Antonio**  
-- M.S. in Information Technology with a concentration in Cybersecurity (Starting January 2025)  
+- M.S. in Information Technology with a concentration in Cybersecurity
 
 
 ### 🛠 Skills
